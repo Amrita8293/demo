@@ -1,0 +1,9 @@
+Git in bash terminal 
+firstly initialize the working repository : git init
+Create file demo : nano demo.txt
+Check status : git status
+Track file : git add .
+Commit file : git commit -m "message "
+Link the remote repository to the directory: git remote add origin "Url link"
+Push the files of local repository to remote repository : git push origin master
+
